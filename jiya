@@ -1,0 +1,18 @@
+<main className="flex-grow">
+    <section className="bg-cover bg-center text-white text-center py-28 relative" style={{ backgroundImage: "url('/assets/images/school-campus.jpg')" }}>
+      <div className="bg-black/40 absolute inset-0"></div>
+      <div className="relative z-10 max-w-4xl mx-auto px-4">
+        <h2 className="text-5xl font-semibold mb-4">Welcome to XYZ Public School</h2>
+        <p className="text-xl">Inspiring Values. Igniting Minds. Shaping Futures.</p>
+      </div>
+    </section>
+
+    <section className="py-16 px-6 max-w-5xl mx-auto">
+      <h2 className="text-3xl font-semibold text-center mb-8">📢 Official News & Announcements</h2>
+      <ul className="list-disc pl-8 space-y-3 text-lg leading-relaxed">
+        <li><strong>Admissions Open:</strong> Enroll now for the academic year 2025-2026.</li>
+        <li><strong>Annual Function:</strong> Join us on <em>15th July</em> for cultural celebrations.</li>
+        <li><strong>New Computer Lab:</strong> State-of-the-art facility inaugurated on campus.</li>
+        <li><strong>Mid-Term Exams:</strong> Scheduled from <em>3rd August</em>.</li>
+      </ul>
+    </section>
